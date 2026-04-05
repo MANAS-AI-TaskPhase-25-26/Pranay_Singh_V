@@ -43,3 +43,5 @@ TASK5:
 
 TASK6:
       1.Task6.0.ipynb contains code to track the ball and players using OpenCV
+
+TASK7:Navigated through a map using RViz(2D Pose and goal pose) and gazebo
